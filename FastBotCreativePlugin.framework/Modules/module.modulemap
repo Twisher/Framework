@@ -1,0 +1,6 @@
+framework module FastBotCreativePlugin {
+  umbrella header "FastBotCreativePlugin.h"
+
+  export *
+  module * { export * }
+}
